@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Telephony Country Hook"
+  short_description: "Hook Android country APIs for tests."
+  default_prompt: "Use $android-telephony-country-hook to make a rooted Android test app see India country values without changing app code."
