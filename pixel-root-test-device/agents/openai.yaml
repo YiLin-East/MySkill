@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Root Test Device"
+  short_description: "Root an authorized Pixel test phone safely."
+  default_prompt: "Use $pixel-root-test-device to root this authorized Pixel test device and verify Magisk root."

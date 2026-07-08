@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Compose 项目规范"
+  short_description: "按项目约定实现和审查 Jetpack Compose。"
+  default_prompt: "Use $android-compose-project 按项目约定实现或审查这个 Jetpack Compose 页面。"
