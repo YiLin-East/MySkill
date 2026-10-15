@@ -1,0 +1,4 @@
+interface:
+  display_name: "ExplorerPatcher 安装与任务栏置顶"
+  short_description: "下载校验官方安装包，完成 Windows 增强工具安装与任务栏顶部设置"
+  default_prompt: "请使用 $explorerpatcher-setup 安装并配置 ExplorerPatcher，将 Windows 10 主任务栏移到顶部并验证结果。"
