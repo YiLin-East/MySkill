@@ -1,0 +1,4 @@
+interface:
+  display_name: "左手鼠标指针安装与配置"
+  short_description: "下载并安装三种尺寸的左手镜像指针，应用方案并完成备份恢复与验证"
+  default_prompt: "请使用 $left-handed-cursors-setup 下载并安装左手鼠标指针，应用标准尺寸并验证结果。"
